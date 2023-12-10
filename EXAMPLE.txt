@@ -1,0 +1,344 @@
+price                 5040000
+area                     6600
+bedrooms                    3
+bathrooms                   1
+stories                     1
+mainroad                  yes
+guestroom                 yes
+basement                  yes
+hotwaterheating            no
+airconditioning            no
+parking                     0
+prefarea                  yes
+furnishingstatus    furnished
+Looking for your perfect home? Look no further! This 3 bedroom, 1 bathroom home is just what you've been searching for. With a main road location and a furnished status, this home is ready for you to move in and start enjoying. Plus, there is a guest room for visitors and a basement for extra storage. What more could you ask for?
+------------------------
+price                      6300000
+area                          6400
+bedrooms                         3
+bathrooms                        1
+stories                          1
+mainroad                       yes
+guestroom                      yes
+basement                       yes
+hotwaterheating                 no
+airconditioning                yes
+parking                          1
+prefarea                       yes
+furnishingstatus    semi-furnished
+OPEN HOUSE: 97 main road. 3 bedrooms, 1 bathrooms. 6400 sq ft. 1 story. Semi-furnished. 1 parking spot. Yes to guest room, main road, and Pref area. NO to hot water heating, basement, and AC. 6300000
+------------------------
+price                      5033000
+area                          4800
+bedrooms                         2
+bathrooms                        1
+stories                          1
+mainroad                       yes
+guestroom                      yes
+basement                       yes
+hotwaterheating                 no
+airconditioning                 no
+parking                          0
+prefarea                        no
+furnishingstatus    semi-furnished
+Looking for a new place to call home? Check out this listing! With a price tag of $5,033,000, this 2-bedroom, 1-bathroom home is perfect for those looking for a starter home. Plus, it comes with a guest room, making it perfect for hosting visitors!
+------------------------
+price                 9240000
+area                     3500
+bedrooms                    4
+bathrooms                   2
+stories                     2
+mainroad                  yes
+guestroom                  no
+basement                   no
+hotwaterheating           yes
+airconditioning            no
+parking                     2
+prefarea                   no
+furnishingstatus    furnished
+This is a beautiful 4 bedroom, 2 bathroom home located on a main road. It is furnished and has 2 parking spaces. It is perfect for a family!
+------------------------
+price                   1890000
+area                       3649
+bedrooms                      2
+bathrooms                     1
+stories                       1
+mainroad                    yes
+guestroom                    no
+basement                     no
+hotwaterheating              no
+airconditioning              no
+parking                       0
+prefarea                     no
+furnishingstatus    unfurnished
+For sale: 
+
+2 bedroom, 1 bathroom home on main road. 
+
+3,649 square feet. 
+
+Unfurnished. 
+
+Asking price: $1,890,000. 
+
+#realestate #mainroad #unfurnished #2bedrooms #1bathroom
+------------------------
+price                 6790000
+area                    12090
+bedrooms                    4
+bathrooms                   2
+stories                     2
+mainroad                  yes
+guestroom                  no
+basement                   no
+hotwaterheating            no
+airconditioning            no
+parking                     2
+prefarea                  yes
+furnishingstatus    furnished
+Price: $679,000
+
+Area: 12,090 sq. ft.
+
+Bedrooms: 4
+
+Bathrooms: 2
+
+Stories: 2
+
+Mainroad: Yes
+
+Guestroom: No
+
+Basement: No
+
+Hotwaterheating: No
+
+Airconditioning: No
+
+Parking: 2
+
+Prefarea: Yes
+
+Furnishingstatus: Furnished
+------------------------
+price                   3290000
+area                       4040
+bedrooms                      2
+bathrooms                     1
+stories                       1
+mainroad                    yes
+guestroom                    no
+basement                     no
+hotwaterheating              no
+airconditioning              no
+parking                       0
+prefarea                     no
+furnishingstatus    unfurnished
+Looking for your perfect starter home? Look no further! This 2 bedroom, 1 bathroom home is just what you need. Plus, it's located on a main road for easy access to everything you need. at $329,000, this home is a great deal!
+------------------------
+price                      6790000
+area                          4000
+bedrooms                         3
+bathrooms                        2
+stories                          2
+mainroad                       yes
+guestroom                       no
+basement                       yes
+hotwaterheating                 no
+airconditioning                yes
+parking                          0
+prefarea                       yes
+furnishingstatus    semi-furnished
+Gorgeous home for sale! 3 bedrooms, 2 bathrooms, and a basement. Price: 6790000
+------------------------
+price                 6650000
+area                     6420
+bedrooms                    3
+bathrooms                   2
+stories                     3
+mainroad                  yes
+guestroom                  no
+basement                   no
+hotwaterheating            no
+airconditioning           yes
+parking                     0
+prefarea                  yes
+furnishingstatus    furnished
+Looking for your forever home? This 3 bedroom, 2 bathroom home has everything you need and more! Situated on a 6420 sqft lot, this home is perfect for a family. With mainroad access and prefarea amenities, this is a perfect location for a family. This home is being offered at 6650000.
+------------------------
+price                      7420000
+area                          7440
+bedrooms                         3
+bathrooms                        2
+stories                          1
+mainroad                       yes
+guestroom                      yes
+basement                       yes
+hotwaterheating                 no
+airconditioning                yes
+parking                          0
+prefarea                       yes
+furnishingstatus    semi-furnished
+Looking for your dream home? Look no further! This 3 bedroom, 2 bathroom home is just what you've been searching for. Features include a mainroad location, guestroom, and airconditioning. Plus, the semi-furnished home is perfect formove-in ready. Act fast, this one's sure to go fast!
+------------------------
+price                 5600000
+area                     5000
+bedrooms                    3
+bathrooms                   1
+stories                     4
+mainroad                  yes
+guestroom                  no
+basement                   no
+hotwaterheating            no
+airconditioning            no
+parking                     0
+prefarea                   no
+furnishingstatus    furnished
+Looking for a luxurious 3 BHK apartment in the heart of the city? Look no further than this stunning furnished apartment on the main road, priced at just Rs. 56 lakhs! With a super built-up area of 5000 sq. ft., this apartment is a steal!
+------------------------
+price                   3115000
+area                       3000
+bedrooms                      3
+bathrooms                     1
+stories                       1
+mainroad                     no
+guestroom                    no
+basement                     no
+hotwaterheating              no
+airconditioning             yes
+parking                       0
+prefarea                     no
+furnishingstatus    unfurnished
+3 bed, 1 bath  
+$3,115,000  
+#realestate
+------------------------
+price                      5250000
+area                         10269
+bedrooms                         3
+bathrooms                        1
+stories                          1
+mainroad                       yes
+guestroom                       no
+basement                        no
+hotwaterheating                 no
+airconditioning                 no
+parking                          1
+prefarea                       yes
+furnishingstatus    semi-furnished
+This 3 bedroom, 1 bathroom home is perfect for anyone looking for a mainroad property. With a price of just $525,000, this home is a great deal. The home is semi-furnished and has a parking spot.
+------------------------
+price                 2380000
+area                     2475
+bedrooms                    3
+bathrooms                   1
+stories                     2
+mainroad                  yes
+guestroom                  no
+basement                   no
+hotwaterheating            no
+airconditioning            no
+parking                     0
+prefarea                   no
+furnishingstatus    furnished
+3 BHK house on sale! Price: 23,80,000 Area: 2475 sq.ft. Furnishing status: furnished Mainroad: yes Guestroom: no Basement: no Hotwaterheating: no Airconditioning: no Parking: 0 Prefarea: no
+------------------------
+price                      3150000
+area                          3450
+bedrooms                         3
+bathrooms                        1
+stories                          2
+mainroad                       yes
+guestroom                       no
+basement                       yes
+hotwaterheating                 no
+airconditioning                 no
+parking                          0
+prefarea                        no
+furnishingstatus    semi-furnished
+Looking for your dream home? Look no further! This 3 bedroom, 1 bathroom, 2 story home is perfect for you. With a mainroad location and semi-furnished status, this home is ready to move in. And at $315,000, it won't last long!
+------------------------
+price                  10150000
+area                      16200
+bedrooms                      5
+bathrooms                     3
+stories                       2
+mainroad                    yes
+guestroom                    no
+basement                     no
+hotwaterheating              no
+airconditioning              no
+parking                       0
+prefarea                     no
+furnishingstatus    unfurnished
+Looking for your forever home? Look no further! This 16200 sqft, 5 bed, 3 bath home has everything you need and more. Plus, it's locate on the main road for easy access to everything you need. Act fast, this one's sure to go fast!
+------------------------
+price                      4543000
+area                          4100
+bedrooms                         2
+bathrooms                        2
+stories                          1
+mainroad                       yes
+guestroom                      yes
+basement                       yes
+hotwaterheating                 no
+airconditioning                 no
+parking                          0
+prefarea                        no
+furnishingstatus    semi-furnished
+Looking for your dream home? Look no further! This stunning property is located in the heart of the city and offers everything you could ever want or need. With a price tag of only $4,543,000, this is an opportunity you don't want to miss!
+------------------------
+price                   7700000
+area                       6480
+bedrooms                      3
+bathrooms                     2
+stories                       4
+mainroad                    yes
+guestroom                    no
+basement                     no
+hotwaterheating              no
+airconditioning             yes
+parking                       2
+prefarea                     no
+furnishingstatus    unfurnished
+3 Story Brick Townhouse for sale! 
+
+Price: $7,700,000 
+Area: 6480 sq ft 
+Bedrooms: 3 
+Bathrooms: 2 
+Features: Airconditioning, Parking, Mainroad 
+
+Looking for a luxurious townhome close to all the action? Look no further! This three story brick townhouse has everything you need and more. With airconditioning, mainroad access and parking for two cars, this is the perfect townhome for you. at $7,700,000, this deal won't last long!
+------------------------
+price                   3465000
+area                       5320
+bedrooms                      2
+bathrooms                     1
+stories                       1
+mainroad                    yes
+guestroom                    no
+basement                     no
+hotwaterheating              no
+airconditioning              no
+parking                       1
+prefarea                    yes
+furnishingstatus    unfurnished
+Selling your home? We can help. Visit our website to learn more.
+------------------------
+price                 5740000
+area                     6360
+bedrooms                    3
+bathrooms                   1
+stories                     1
+mainroad                  yes
+guestroom                 yes
+basement                  yes
+hotwaterheating            no
+airconditioning           yes
+parking                     2
+prefarea                  yes
+furnishingstatus    furnished
+Looking for your perfect home? Come check out this beautiful 3 bedroom, 1 bathroom home for only $574,000! With mainroad access and a prefarea, this is perfect for any family. This home comes complete with air conditioning, parking for two cars, and a lovely furnished guest room.
+------------------------
