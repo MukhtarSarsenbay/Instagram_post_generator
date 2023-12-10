@@ -1,5 +1,17 @@
 Solution: In this code with help of OpenAI key and data from kaggle.com about houses and their price,area,bedrooms,bathrooms,stories,mainroad,guestroom,basement,hotwaterheating,airconditioning,parking,prefarea,furnishingstatus all the data were taken. Then with help of prompt:"Generate an Instagram post for a real estate listing with the following features: {random_entry}" all the 20 different post results for the instagram were generated.
 
+TO RUN: 1) On terminal: virtualenv env 
+2) Then activate virtual environment: On mac/linux: source venv/bin/activate
+On windows: .\venv\Scripts\activate
+3) On mac:pip3 install -r requirements.txt
+On windows: pip install -r requirements.txt
+4) On mac: python3 main.py
+On windows: python main.py 
+My version on virtual env: 3.10.13
+Please check .env file and add your API key. 
+
+
+
 
 How to mimic the style of successful Instagram posts?
 Mimicking the style of successful Instagram posts involves a combination of engaging content, appropriate use of language, and understanding the preferences of your target audience. Here are some tips:
